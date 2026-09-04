@@ -49,4 +49,9 @@ export default [
     name: "Enzi",
     url: "https://enziv.xyz/"
   },
+  {
+    id: "aftdawn",
+    name: "AftDawn",
+    url: "https://AftDawn.com/"
+  }
 ];
