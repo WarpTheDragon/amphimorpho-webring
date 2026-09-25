@@ -56,7 +56,7 @@ export default [
   },
   {
     id: "warpthedragon",
-    name: "Warp's Dragons & Stuff !",
+    name: "Warp's Critter Menagerie !",
     url: "https://warpthedragon.art/"
   }
 ];
